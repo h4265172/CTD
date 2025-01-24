@@ -6,7 +6,7 @@ import torch.nn.functional as F
 import torch.distributions as D
 import math
 from sklearn.mixture import GaussianMixture
-from itertools import multset_permutations
+from itertools import multiset_permutations
 
 import data_loader
 
