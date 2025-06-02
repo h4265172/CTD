@@ -1,5 +1,6 @@
 # CTD
 
+Supplementary material can be found in https://drive.google.com/file/d/1EMULwJEUYD5HWcD6_bvjmSUkrWKjOulW/view?usp=sharing.
 This GitHub repository contains code example of Clustered Temporal Decomposition. 
 
 * See ```CTD.py``` for the main Clustered Temporal Decomposition training function.
