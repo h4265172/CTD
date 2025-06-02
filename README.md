@@ -1,6 +1,5 @@
 # CTD
 
-Supplementary material can be found in https://drive.google.com/file/d/1EMULwJEUYD5HWcD6_bvjmSUkrWKjOulW/view?usp=sharing.
 This GitHub repository contains code example of Clustered Temporal Decomposition. 
 
 * See ```CTD.py``` for the main Clustered Temporal Decomposition training function.
@@ -9,3 +8,5 @@ This GitHub repository contains code example of Clustered Temporal Decomposition
 * ```data_loader.py``` contains a mini-batch loading function for stochastic gradient descent.
 
 * ```simulation.ipynb``` demonstrates appropriate usage of the above files through a simulation experiment.
+
+Supplementary material (proofs, additional graphical illustrations and tables) can be found in https://drive.google.com/file/d/1EMULwJEUYD5HWcD6_bvjmSUkrWKjOulW/view?usp=sharing.
