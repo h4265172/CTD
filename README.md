@@ -9,4 +9,4 @@ This GitHub repository contains code example of Clustered Temporal Decomposition
 
 * ```Simulation.ipynb``` demonstrates appropriate usage of the above files through a simulation experiment.
 
-Supplementary material (proofs, additional graphical illustrations and tables) can be found in https://drive.google.com/file/d/1EMULwJEUYD5HWcD6_bvjmSUkrWKjOulW/view?usp=sharing.
+Supplementary material (proofs, additional graphical illustrations and tables) can be found in https://drive.google.com/file/d/18gR-Dhfm8jBSjsNSka3XsYQEKP8Suk54/view?usp=sharing.
