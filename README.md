@@ -3,7 +3,7 @@
 This GitHub repository contains code for Clustered Temporal Decomposition. 
 ## Jupyter Notebooks
 * ```Simple_Demo_with_Instructions.ipynb``` demonstrates appropriate usage of the above files through a simulation experiment.
-*
+* ```Simulation_Analysis_CTD-GM-AR.ipynb``` and ```Simulation_Analysis_CTD-GM-TCN.ipynb``` replicate the simulation experiments included in the manuscript.
 
 ## Code for architecture
 * See ```CTD_ARIMA.py``` and ```CTD_TCN.py``` for the two main Clustered Temporal Decomposition training classes.
